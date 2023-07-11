@@ -4,7 +4,7 @@
 
 La temperatura media anual mundial cerca de la superficie en 2022 fue 1,15 ºC \[1,02 ºC a 1,28 ºC\] superior a la media de la era preindustrial (1850 a 1900). El año 2022 fue el quinto o el sexto más cálido jamás registrado según seis conjuntos de datos, a pesar del efecto de enfriamiento de La Niña. Los años 2015 a 2022 fueron los ocho más cálidos jamás registrados en todos los conjuntos de datos.[@clima_2022]
 
-Las concentraciones atmosféricas de los tres principales gases de efecto invernadero alcanzaron nuevos máximos históricos en 2021, el último año del que se dispone de datos mundiales consolidados, con niveles de dióxido de carbono (CO2) de 415,7 ± 0,2 partes por millón (ppm), niveles de metano (CH4) de 1 908 ± 2 partes por mil millones (ppmm), y niveles de óxido nitroso (N2O) de 334,5 ± 0,1 ppmm, lo que representa un aumento del 149 %, 262 % y 124 %, respectivamente, respecto de los niveles preindustriales, esto es, antes de 1750 (figura 1). Los datos en tiempo real de determinados lugares, como Mauna Loa3 (Hawái, Estados Unidos de América) y Kennaook/el cabo Grim4 indican que los niveles de CO2, CH4 y N2O siguieron aumentando en 2022.
+Las concentraciones atmosféricas de los tres principales gases de efecto invernadero alcanzaron nuevos máximos históricos en 2021, el último año del que se dispone de datos mundiales consolidados, con niveles de dióxido de carbono (CO2) de 415,7 ± 0,2 partes por millón (ppm), niveles de metano (CH4) de 1 908 ± 2 partes por mil millones (ppmm), y niveles de óxido nitroso (N2O) de 334,5 0,1 ppmm, lo que representa un aumento del 149 %, 262 % y 124 %, respectivamente, respecto de los niveles preindustriales, esto es, antes de 1750 (figura 1). Los datos en tiempo real de determinados lugares, como Mauna Loa3 (Hawái, Estados Unidos de América) y Kennaook/el cabo Grim4 indican que los niveles de CO2, CH4 y N2O siguieron aumentando en 2022.
 
 [![Fila superior: promedios mundiales mensuales de la fracción molar (unidad de medida de la concentración atmosférica), de 1984 a 2021, a) del CO2 , en partes por millón; b) del CH4 , en partes por mil millones; y c) del N2O, en partes por mil millones. Fila inferior: índices de aumento que plasman el incremento de los promedios anuales sucesivos de las fracciones molares d) del CO2, en partes por millón por año; e) del CH4, en partes por mil millones por año; y f) del N2O, en partes por mil millones por año.](images/graph_global.png){fig-align="center"}](https://library.wmo.int/doc_num.php?explnum_id=11702)
 
@@ -20,7 +20,7 @@ La capacidad en energías renovables de la región aumentó un 33 % entre 201
 
 La región de América Latina y el Caribe está rodeada por los océanos Pacífico y Atlántico y su clima está condicionado en gran medida por las temperaturas predominantes de la superficie del mar y los fenómenos conexos de acoplamiento atmósfera-océano a gran escala, como El Niño-Oscilación del Sur (ENOS). Las condiciones de la temperatura superficial del mar del Pacífico tropical central y oriental son especialmente importantes para determinar el inicio de episodios de El Niño y La Niña y su influencia en los patrones y extremos climáticos, tanto a nivel mundial como en la región de América Latina y el Caribe.
 
-[![Anomalías anuales de la temperatura superficial del mar en 2022 (período de referencia: 1991 a 2020). En el cuadro se delimita la región para la que se calcula el índice de temperatura superficial del mar Niño 3.4 (5° N-5° S, 120° W-170° W). Fuente: Sistema Mundial de Asimilación de Datos Oceánicos (GODAS) de los Centros Nacionales de Predicción del Medioambiente (NCEP) de la Oficina Nacional de Administración Oceánica y Atmosférica (NOAA); proceso a cargo del Centro Internacional para la Investigación del Fenómeno de El Niño (CIIFEN).](images/sst_anomaly.png){fig-align="center"}](https://library.wmo.int/doc_num.php?explnum_id=11702)
+[![Anomalías anuales de la temperatura superficial del mar en 2022 (período de referencia: 1991 a 2020). En el cuadro se delimita la región para la que se calcula el índice de temperatura superficial del mar Niño 3.4 (5 N-5º S, 120º W-170º W). Fuente: Sistema Mundial de Asimilación de Datos Oceánicos (GODAS) de los Centros Nacionales de Predicción del Medioambiente (NCEP) de la Oficina Nacional de Administración Oceánica y Atmosférica (NOAA); proceso a cargo del Centro Internacional para la Investigación del Fenómeno de El Niño (CIIFEN).](images/sst_anomaly.png){fig-align="center"}](https://library.wmo.int/doc_num.php?explnum_id=11702)
 
 El ENOS influye enormemente en los regímenes de precipitaciones y temperaturas de grandes partes de la región.8 El episodio de La Niña de 2022 se asoció a temperaturas del aire más elevadas y a déficits de precipitaciones en el norte de México, a un período prolongado de condiciones de sequía en gran parte del sureste de América del Sur y a un aumento de las precipitaciones en algunas zonas de América Central y del norte de América del Sur y en la región amazónica.
 
@@ -30,13 +30,13 @@ El ENOS influye enormemente en los regímenes de precipitaciones y temperaturas
 
 ### Temperatura
 
-La temperatura media de 2022 en América Latina y el Caribe fue entre la 12a y la 21a más alta jamás registrada, dependiendo del conjunto de datos utilizado, cercana al promedio del período de 1991 a 2020 (--0,06 °C a 0,10 °C) y 0,55 °C \[0,46 °C a 0,70 °C\] por encima del promedio de 1961 a 1990 (cuadro 1). En la figura 3 y en el cuadro 1 se muestran las anomalías de la temperatura media anual relativas al período de 1991 a 2020 en la región de América Latina y el Caribe (véase información detallada sobre los conjuntos de datos en la sección "Conjuntos de datos y metodología"). El calentamiento fue menos pronunciado en la región en 2022 en comparación con 2021, y especialmente si se compara con 2020 (que fue uno de los tres años más cálidos jamás registrado). El período comprendido entre 1991 y 2022 muestra la tendencia más cálida (alrededor de 0,2 °C o más por decenio) desde 1900 en la región de América Latina y el Caribe (en comparación con los anteriores períodos de 30 años de 1900 a 1930, 1931 a 1960 y 1961 a 1990). De las cuatro subregiones, México experimentó el mayor grado de calentamiento: casi 0,3 °C por decenio en el período de 1991 a 2022.
+La temperatura media de 2022 en América Latina y el Caribe fue entre la 12a y la 21a más alta jamás registrada, dependiendo del conjunto de datos utilizado, cercana al promedio del período de 1991 a 2020 (--0,06 ºC a 0,10 ºC) y 0,55 ºC \[0,46 ºC a 0,70 ºC\] por encima del promedio de 1961 a 1990 (cuadro 1). En la figura 3 y en el cuadro 1 se muestran las anomalías de la temperatura media anual relativas al período de 1991 a 2020 en la región de América Latina y el Caribe (véase información detallada sobre los conjuntos de datos en la sección "Conjuntos de datos y metodología"). El calentamiento fue menos pronunciado en la región en 2022 en comparación con 2021, y especialmente si se compara con 2020 (que fue uno de los tres años más cálidos jamás registrado). El período comprendido entre 1991 y 2022 muestra la tendencia más cálida (alrededor de 0,2 ºC o más por decenio) desde 1900 en la región de América Latina y el Caribe (en comparación con los anteriores períodos de 30 años de 1900 a 1930, 1931 a 1960 y 1961 a 1990). De las cuatro subregiones, México experimentó el mayor grado de calentamiento: casi 0,3 ºC por decenio en el período de 1991 a 2022.
 
 [![Anomalías de la temperatura media anual de 1900 a 2022 con respecto al período de 1991 a 2020 para América Latina y el Caribe: México, América Central, el Caribe y América del Sur. Los datos proceden de seis conjuntos de datos diferentes, como se indica en la leyenda: HadCRUT5, NOAAGlobalTemp, GISTEMP, Berkeley Earth, ERA5 y JRA-55. Los mapas de los recuadros muestran las regiones para las que se han calculado los promedios.](images/temp_ts.png){fig-align="center"}](https://library.wmo.int/doc_num.php?explnum_id=11702)
 
-[![Anomalías de la temperatura media del aire in situ (a 2 m) en 2022 (con respecto al período de 1991 a 2020) en: a) México, b) América Central, c) el Caribe y d) América del Sur, en °C. La escala de colores se muestra en la parte inferior izquierda de la figura. Fuente: CIIFEN, a partir de datos de los Servicios Meteorológicos e Hidrológicos Nacionales.](images/temp_anomalies_stations.png){fig-align="center"}](https://library.wmo.int/doc_num.php?explnum_id=11702)
+[![Anomalías de la temperatura media del aire in situ (a 2 m) en 2022 (con respecto al período de 1991 a 2020) en: a) México, b) América Central, c) el Caribe y d) América del Sur, en ºC. La escala de colores se muestra en la parte inferior izquierda de la figura. Fuente: CIIFEN, a partir de datos de los Servicios Meteorológicos e Hidrológicos Nacionales.](images/temp_anomalies_stations.png){fig-align="center"}](https://library.wmo.int/doc_num.php?explnum_id=11702)
 
-En América del Sur, se observaron anomalías de la temperatura superiores a lo normal, de +1 °C a +1,5 °C, en el este de la Amazonia, el centro y el sur de los Andes peruanos, Bolivia y las regiones centrales de Chile y de la Argentina. Se observaron anomalías negativas de la temperatura de --0,5 °C a --1,0 °C en el extremo norte de Venezuela, Guyana, el norte de Colombia, el noreste de Chile y el Uruguay.
+En América del Sur, se observaron anomalías de la temperatura superiores a lo normal, de +1 ºC a +1,5 ºC, en el este de la Amazonia, el centro y el sur de los Andes peruanos, Bolivia y las regiones centrales de Chile y de la Argentina. Se observaron anomalías negativas de la temperatura de --0,5 ºC a --1,0 ºC en el extremo norte de Venezuela, Guyana, el norte de Colombia, el noreste de Chile y el Uruguay.
 
 ### Precipitaciones
 
@@ -64,7 +64,6 @@ En América Latina y la región del Caribe, el nivel del mar ha aumentado a un
 
 Según los datos de altimetría por satélite de alta precisión correspondientes al período comprendido entre enero de 1993 y junio de 2022, la tasa de cambio del nivel del mar en la vertiente atlántica de América del Sur es mayor que en la vertiente del Pacífico (figura 8 (derecha) y cuadro 2).16 En la región del Pacífico de América del Sur, la tasa de cambio fue de 2,21 mm ± 0,1 mm al año, y a lo largo de la costa occidental de México y América Central, de 1,92 mm ± 0,1 mm al año, ambas inferiores al promedio mundial de 3,37 mm ± 0,32 mm al año durante el mismo período. El nivel del mar en la vertiente del Pacífico de América del Sur está muy influido por el ENOS y, durante La Niña, se observan aumentos menores. A lo largo de la costa atlántica de América del Sur, al sur del ecuador, la tasa de cambio entre enero de 1993 y junio de 2022, de 3,66 mm ± 0,1 mm al año, fue superior al promedio mundial. También se observó una tasa comparable en el Atlántico Norte subtropical y en el golfo de México (3,60 mm ± 0,1 mm al año). En el Atlántico Norte tropical, alrededor de América Central y el sur del Caribe, la tasa de cambio fue de 3,23 mm ± 0,1 mm al año durante este período.[@fig-seaLevel]
 
-
 ```{r echo= FALSE}
 my_tbl <- tibble::tribble(
   ~Region, ~Subregion,       ~Area, ~Tendencias,
@@ -79,11 +78,9 @@ kable(my_tbl, digits = 3, row.names = FALSE, align = "c",
 
 ```
 
-
 ## Fenómenos Extremos
 
 ### Precipitaciones e Inundaciones
-
 
 ### Sequías
 
@@ -93,12 +90,8 @@ Una tormenta de arena afectó al norte de Chile el 17 de marzo 2022 y dejó si
 
 Una amplia zona centrada en la parte centro-septentrional de la Argentina, el sur de Bolivia, el centro de Chile y la mayor parte del Paraguay y el Uruguay experimentó temperaturas récord durante dos olas de calor consecutivas a finales de noviembre y principios de diciembre de 2022. En Chile, los incendios forestales causaron importantes daños a la flora y la fauna tras la quema de la palma chilena, especie autóctona de la región de Valparaíso.
 
-
 En Bolivia y Chile, las olas de calor de noviembre y diciembre, junto con las persistentes condiciones de sequía, provocaron incendios forestales sin precedentes y un aumento del 214 % y el 256 %, respectivamente, del número de focos detectados en comparación con el promedio de 2001 a 2021.62
-
-
 
 ### Olas de Frío
 
-
-En Chile, del 28 de mayo al 1 de junio, se produjo una ola de frío en Chillán, donde la temperatura mínima alcanzó los –6,3 °C el 1 de junio, la temperatura más baja de junio en 55 años (la mínima mensual media de ese mes del período de 1991 a 2020 fue de 5 °C).
+En Chile, del 28 de mayo al 1 de junio, se produjo una ola de frío en Chillán, donde la temperatura mínima alcanzó los --6,3 ºC el 1 de junio, la temperatura más baja de junio en 55 años (la mínima mensual media de ese mes del período de 1991 a 2020 fue de 5 ºC).
