@@ -6,12 +6,7 @@ number-depth: 2
 
 ## Introducción
 
-El monitoreo del clima se lleva a cabo mediante una red de sistemas de
-observación que abarcan la atmósfera, el océano, la hidrología, la
-criosfera y la biosfera. Cada uno de estos ámbitos se monitorea de
-diferentes maneras por diversas organizaciones. De manera transversal,
-las observaciones por *satélite* contribuyen de manera importante al
-monitoreo del clima a nivel mundial.
+El monitoreo del clima se lleva a cabo mediante una red de sistemas de observación que abarcan la atmósfera, el océano, la hidrología, la criosfera y la biosfera. Cada uno de estos ámbitos se monitorea de diferentes maneras por diversas organizaciones. De manera transversal, las observaciones por *satélite* contribuyen de manera importante al monitoreo del clima a nivel mundial.
 
 ![Riesgo clave para lograr un desarrollo sostenible](images/risk_sust.png){#fig-risk_sust fig-align="center" width="600"}
 
