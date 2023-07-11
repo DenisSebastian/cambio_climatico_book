@@ -49,6 +49,17 @@ el Atlas de Riesgos Climáticos para Chile, un proyecto del Ministerio del Medio
 
 [![](images/arclim.png){fig-align="center" width="500"}](https://arclim.mma.gob.cl)
 
+### Plataforma de Simulaciones Climáticas
+
+La plataforma de visualización y descarga de datos climáticos fue implementada con el objetivo de proveer información de proyecciones climáticas a ser utilizada por distintas instituciones de gobierno, comunidad científica y por otros actores que requieran esta información.
+
+-   Se consideran simulaciones climáticas y productos de datos observacionales relacionados, disponibles para un dominio global (llamadas simulaciones globales), para Sudamérica y para Chile continental. Estas compilaciones de datos observacionales y simulados quedan disponibles a todo público, incluyendo herramientas de visualización simples y con posibilidad de descargar todos los datos presentados.
+
+-   Las simulaciones mencionadas corresponden a datos grillados para diferentes dominios geográficos. Estos han sido generados con modelos globales o regionales o técnicas estadísticas o, en algunos casos, combinados con observaciones. Las simulaciones contemplan datos globales y regionales de escenarios históricos y futuros, obtenidos principalmente desde plataformas informáticas en línea de instituciones internacionales y nacionales desde 1997 a la fecha. Los datos observacionales consideran un producto grillado desarrollado por investigadores del Centro de Ciencia del Clima y la Resiliencia basado en datos de estaciones observacionales de la Dirección Meteorológica de Chile y de la Dirección General de Aguas, campos de reanálisis^[1](https://mail.google.com/mail/u/0/#m_-2341043975609910966_sdfootnote1sym)^ y datos satelitales. La compilación y organización de formatos de bases de datos grillados se realiza en la plataforma de almacenamiento del (CR)2 y es accesible en forma abierta (<http://simulaciones.cr2.cl/>). Cabe destacar que las variables climáticas a visualizar en esta plataforma fueron definidas en conjunto con la mesa de incumbentes reunida para este proyecto. La plataforma de visualización genera mapas, tablas, gráficos y series de tiempo para el dominio de Sudamérica, Chile y macrozonas de Chile predefinidas, así como para polígonos o puntos definidos en forma dinámica.
+
+[1](https://mail.google.com/mail/u/0/#m_-2341043975609910966_sdfootnote1anc)Los datos de reanálisis se refieren a datos obtenidos a partir de combinar de manera óptima observaciones y modelos atmosféricos a través de técnicas llamadas de asimilación de datos. Ver por ejemplo: <https://www.ecmwf.int/en/research/climate-reanalysis>
+
+[![Plataforma de Simulaciones Climáticas](images/sim_clim.png)](https://simulaciones.cr2.cl)
 
 ### {{< var org.smach >}}
 
@@ -60,13 +71,11 @@ El Sistema es resultado del trabajo conjunto de la Comisión Económica para Am�
 
 [![](images/cepal_co2.png){fig-align="center" width="700"}](https://flujos-co2.copernicus.nlhpc.cl)
 
-
 ### {{< var org.cuccg >}}
+
 Este nuevo milenio está marcado por la globalización de los impactos de la acción humana sobre el planeta. Estos se traducen en cambios ambientales, asociados principalmente al uso de recursos, transformación de hábitat y en particular al cambio climático producto de las emisiones de gases de efecto invernadero. Todos ellos son poderosos agentes transformadores del medio biofísico que establecen vías de interdependencia y retroalimentación con elementos demográficos y socioeconómicos, constituyendo fuerzas fundamentales de cambio global.
 
 El Centro de Cambio Global UC surge de la alianza entre cinco facultades: Agronomía e Ingeniería Forestal, Ciencias Biológicas, Ingeniería, Ciencias Económicas y Administrativas e Historia, Geografía y Ciencia Política, concentrando sus esfuerzos en desarrollar investigación básica y aplicada sobre las dimensiones biofísicas y humanas del cambio global.
-
-
 
 ## Organizaciones
 
@@ -113,7 +122,6 @@ El Centro de Cambio Global UC surge de la alianza entre cinco facultades: Agrono
 ### [The Ozone Secretariat, UNEP](http://ozone.unep.org/new_site/en/index.php)
 
 ## Reportes Climáticos
-
 
 [IPBES Assessment Reports](https://www.ipbes.net/assessment-reports)
 
