@@ -1,0 +1,8 @@
+# Conclusiones
+
+
+Se cumplió con uno de los objetivos es presentar este documento que es una aproximación de eventuales indicadores de la matriz de sustentabilidad en el contexto de cambio climático con fono nacional e internacional. Además se creo un marco de referencia técnico y resumido sobre dinámicas ecosistémicas que intervienen en el proceso de Cambio Climático, considerando el contexto normativo en el que se encuentra Chile y los países firmantes del acuerdo de Paris.
+
+Se propone compromisos a corto plazo que se ajusta a los requerido en el proceso de tesis de detección de cambios que derivara indicadores para el CIT que que intenten ser un apoyo real a la gobernanza y sea utilizados para como fuente evaluación de políticas de mitigación antes efectos del cambio climático. Además de apoyo en el diseño y cálculo de los indicadores de al matriz de sustentatibilidad entendidas en el contexto de variaciones armosféricas, climáticas, eventos etremos y otros específicos a zonas urbanas.
+
+![](images/matrices.png){fig-align="center" width="600"}

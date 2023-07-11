@@ -1,0 +1,50 @@
+version: 1
+
+email:
+  author: "<denis.berroeta@uai.cl>"
+
+author:
+  name: "[Denis Berroeta](https://cit.uai.cl/denis-berroeta/)"
+  cargo: "Coordinador de Investigación, [Centro de Inteligencia Territorial - UAI](https://cit.uai.cl)"
+  email: "<denis.berroeta@uai.cl>"
+
+
+
+insumos:
+  viirs: "[VIIRS Stray Light Corrected Nighttime Day/Night Band Composites Version 1](https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG)"
+  modis_lc: "[MCD12Q1.061 MODIS Land Cover Type Yearly Global 500m](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD12Q1)"
+  catalogo: "[Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets)"
+  landsat: "[Landsat Collections](https://developers.google.com/earth-engine/datasets/catalog/landsat)"
+  landsat_8: "[Landsat 8](https://developers.google.com/earth-engine/datasets/catalog/landsat-8)"
+  landsat_9: "[Landsat 9](https://developers.google.com/earth-engine/datasets/catalog/landsat-9)"
+  sentinel: "[Sentinel Collections](https://developers.google.com/earth-engine/datasets/catalog/sentinel)"
+  sentinel_2: "[Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2)"
+  
+
+org:
+  sii: "[Servicio de Impuestos Internos](https://homer.sii.cl)"
+  ine: "[Instituto Nacional de Estadísticas](https://www.ine.gob.cl)"
+  wbank: "[Banco Mundial](https://data.worldbank.org/)"
+  omm: "[Organización Meteorógica Mundial (OMM)](https://public.wmo.int/es)"
+  smach: "[Servicio Meteorológico de la Armada de Chile](https://meteoarmada.directemar.cl/prontus_meteo/site/edic/base/port/inicio.html)"
+  cuccg: "[Centro UC Cambio Global](https://cambioglobal.uc.cl)"
+  arclim: "[Atlas de Riesgos Climáticos](https://arclim.mma.gob.cl)"
+  
+  
+program:
+  gcos: "[Global Climate Observing System (GCOS)](https://gcos.wmo.int)"
+  gos: "[Global Observing System (GOS)](https://public.wmo.int/en/programmes/global-observing-system)"
+  gaw: "[Global Atmosphere Watch (GAW)](https://public.wmo.int/en/programmes/global-atmosphere-watch-programme)"
+  whos: "[Hydrological Observing System (WHOS)](https://hydrohub.wmo.int/en/whos)"
+  gcw: "[Global Cryosphere Watch (GCW)](https://globalcryospherewatch.org)"
+  wipps: "[WMO Integrated Processing and Prediction System (WIPPS)](https://community.wmo.int/en/activity-areas/wmo-integrated-processing-and-prediction-system-wipps)"
+  gdpfs: "[Global Data-processing and Forecasting System (GDPFS)](https://community.wmo.int/en/activity-areas/global-data-processing-and-forecasting-system-gdpfs)"
+  
+gee:
+  name: "[Goole Earth Engine](https://earthengine.google.com)"
+  code_editor: "[Code Editor](https://code.earthengine.google.com)"
+  rgee: "[Rgee](https://cran.r-project.org/web/packages/rgee/index.html)"
+  doc_python: "[Documentación en Python](https://developers.google.com/earth-engine/guides/python_install)"
+  doc_js: "[Documentación en Javascript](https://developers.google.com/earth-engine/tutorials/tutorial_js_01)"
+  
+

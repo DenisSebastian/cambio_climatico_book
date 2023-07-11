@@ -1,0 +1,23 @@
+# Contexto Tesis Doctoral
+
+Uno de los objetivos principales del presente documento es entregar una aproximación a una eventual Matriz de Sustentabilidad compuesta por una serie de indicadores de cambio climático, lo anterior conectado con la tesis doctoral de Data Science está destinada a lograrse en 4 años, y hasta el momento no está definido el tema de investigación, pero si las metodología general de *Detección de Cambios*, hasta hoy solo existe el tema para la tesis de Master in Data Science que *"Sistema de Detección de Cambios en Ecosistemas Naturales Protegidos utilizando Imágenes Satelitales e Inteligencia Artificial"*, en este tenor se hace necesario planificar a diferentes niveles de plazo al momento de establecer compromisos y solo en específicos los compromisos a corto plazo.
+
+## Compromisos a corto plazo:
+
+Agosto - Diciembre 2023:
+
+:   Definir metodología y crear sistema de detección de cambios en tres ecosistemas naturales protegidos, utilizando imágenes satelitales e inteligencia artificial.
+
+![](images/areas_ambiental.png){fig-align="center" width="600"}
+
+Enero - Marzo 2024:
+
+:   Construir indicadores territoriales utilizando como insumo los resultados la detección de cambios en ecosistemas protegidos, al combinarlos con información sociodemográfica, económica y/o cultural, para facilitar la interpretación, apoyar a toma decisiones y que pueda ser utilizandos como intrumento de medición para políticas de mitigación ante cambio climático.
+
+## Compromiso a largo plazo:
+
+Abril 2024 - Futuro:
+
+:   Abrir nuevamente la comunicación a través de reuniones para definir nuevos compromisos de acuerdo a la temática de la tesis doctoral de *detección de cambios* con indicadores de cambio climático que incorpore una mirada social que considere los impactos o consecuencias en la personas y su entorno.
+
+Se espera que los compromisos a corto plazo sea una especie de prototipo, para poder transformar índices numéricos en una valorazión más integral que considere factores sociales y demográficos, par poder ser aplicado en los futuros indicadores de la Matriz de Sustentabilidad.

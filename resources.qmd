@@ -1,0 +1,126 @@
+---
+title: "Recursos Adicionales"
+number-depth: 2
+---
+
+## Servicios y Programas Internacionales
+
+### {{< var program.gos >}}
+
+The Global Observing System (GOS) is a coordinated system of networks of observing stations and platforms, together with methods, techniques, facilities and arrangements for making observations on a worldwide scale and defined as one of the main components of the World Weather Watch Programme.
+
+### {{< var program.gcos >}}
+
+The Global Climate Observing System (GCOS) is co-sponsored by the World Meteorological Organization (WMO), the Intergovernmental Oceanographic Commission of the United Nations Educational, Scientific and Cultural Organization (IOC-UNESCO), the United Nations Environment Programme (UN Environment), and the International Science Council (ISC). It regularly assesses the status of global climate observations of the atmosphere, land and ocean and produces guidance for its improvement.
+
+GCOS expert panels maintain definitions of Essential Climate Variables (ECVs) which are required to systematically observe Earth's changing climate. The observations supported by GCOS contribute to solving challenges in climate research and also underpin climate services and adaptation measures.
+
+### {{< var program.gaw >}}
+
+The observing component of the Global Atmosphere Watch (GAW) is a coordinated system of networks of observing stations, methods, techniques, facilities and arrangements encompassing the many monitoring and related scientific assessment activities devoted to the investigation of the changing chemical composition and related physical characteristics of the global atmosphere.
+
+### {{< var program.whos >}}
+
+The WMO Hydrological Observing System (WHOS) comprises hydrological observations, initially focusing on water level and discharge. It also includes the World Hydrological Cycle Observing System Programme (WHYCOS) intended to improve basic observation activities, strengthen international cooperation and promote the free exchange of data in the field of hydrology.
+
+[![](images/whos_app.png){fig-align="center" width="700"}](https://wde.hydro.geodab.eu/apps/water-data-explorer-whos/)
+
+### {{< var program.gcw >}}
+
+The observing component of the Global Cryosphere Watch (GCW) is a coordinated system of networks of observing stations, methods, techniques, facilities and arrangements encompassing monitoring and related scientific assessment activities devoted to the investigation of the changing Cryosphere. The GCW observing network and its standardized core network (CryoNet) shall build on existing observing programmes and promote the addition of standardized cryospheric observations to existing facilities.
+
+### {{< var program.gdpfs >}}
+
+WMO Congress adopted WIPPS as a new name of GDPFS at 19th Session (June 2023)
+
+[![](images/gdpfs.png){fig-align="center" width="700"}](https://wmo.maps.arcgis.com/apps/dashboards/7c3d45e5003a417988bad63e91ad8748)
+
+### Servicio de Cambio Climático de Copernicus (C3S)
+
+[Sea Level (C3S)](https://climate.copernicus.eu/sea-level)
+
+The change in mean sea level has a direct impact on coastal areas. It is an essential indicator of climate change as it reflects both the amount of heat added to the ocean and the loss of glacier mass due to melting.
+
+## Servicios Nacionales
+
+### {{< var org.arclim >}}
+
+el Atlas de Riesgos Climáticos para Chile, un proyecto del Ministerio del Medio Ambiente del Gobierno de Chile, desarrollado por el Centro de Investigación del Clima y la Resiliencia (CR2) y el Centro de Cambio Global (CCG-Universidad Católica de Chile) con la colaboración de otras instituciones nacionales e internacionales. ARCLim fue apoyado por el Programa Mundial de Evaluación y Gestión de Riesgos para la Adaptación al Cambio Climático (Pérdidas y Daños) por encargo del Ministerio Federal de Cooperación Económica y Desarrollo (BMZ) de Alemania. La plataforma Web de ARCLim fue desarrollado por Meteodata.
+
+[![](images/arclim.png){fig-align="center" width="500"}](https://arclim.mma.gob.cl)
+
+
+### {{< var org.smach >}}
+
+[![](images/SMACh.png){fig-align="center" width="500"}](https://meteoarmada.directemar.cl/prontus_meteo/site/edic/base/port/inicio.html)
+
+### Sistema de Monitoreo Satelital de Gases de Efecto Invernadero (GEI)
+
+El Sistema es resultado del trabajo conjunto de la Comisión Económica para América Latina y el Caribe (CEPAL) con el financiamiento del Programa EUROCLIMA+, con el Centro de Modelamiento Matemático de la Universidad de Chile (CMM), uno de los corresponsales del programa de Observación de la Tierra de Órbita Baja (LEOs) del Sistema Copérnico de la Unión Europea, cuya información es de libre acceso. El Sistema permite observar las tendencias en la concentración de los Gases de Efecto Invernadero de origen antropogénico, tanto a nivel de América Latina, de los países que la integran, así como de sus principales ciudades y otras subregiones de interés. Fuente: [Cepal](https://www.cepal.org/es/subtemas/cambio-climatico/sistema-monitoreo-satelital-gases-efecto-invernadero-gei)
+
+[![](images/cepal_co2.png){fig-align="center" width="700"}](https://flujos-co2.copernicus.nlhpc.cl)
+
+
+### {{< var org.cuccg >}}
+Este nuevo milenio está marcado por la globalización de los impactos de la acción humana sobre el planeta. Estos se traducen en cambios ambientales, asociados principalmente al uso de recursos, transformación de hábitat y en particular al cambio climático producto de las emisiones de gases de efecto invernadero. Todos ellos son poderosos agentes transformadores del medio biofísico que establecen vías de interdependencia y retroalimentación con elementos demográficos y socioeconómicos, constituyendo fuerzas fundamentales de cambio global.
+
+El Centro de Cambio Global UC surge de la alianza entre cinco facultades: Agronomía e Ingeniería Forestal, Ciencias Biológicas, Ingeniería, Ciencias Económicas y Administrativas e Historia, Geografía y Ciencia Política, concentrando sus esfuerzos en desarrollar investigación básica y aplicada sobre las dimensiones biofísicas y humanas del cambio global.
+
+
+
+## Organizaciones
+
+### {{< var org.omm >}}
+
+### [World Meteorological Organization (WMO)](https://public.wmo.int/en)
+
+### [United Nations (UN)](http://www.un.org/)
+
+### [United Nations Convention to Combat Desertification](http://www.unccd.int/)
+
+### [United Nations Environment Programme (UNEP),](http://www.unep.ch/)([Geneva](http://www.unep.ch/), [Nairobi](http://www.unep.org/))
+
+### [United Nations Framework Convention on Climate Change (UNFCCC)](http://www.unfccc.int/)
+
+### [United Nations and Climate Change](http://www.un.org/sustainabledevelopment/climate-change-2/)
+
+### [UN-Habitat -- United Nations Human Settlements Programme](http://unhabitat.org/)
+
+### [Convention on Biological Diversity (CBD)](https://www.cbd.int/)
+
+### [Food and Agriculture Organization of the United Nations](http://www.fao.org/home/en/)
+
+### [Global Environment Facility (GEF)](http://www.thegef.org/)
+
+### [Greening the Blue](http://www.greeningtheblue.org/)
+
+### [Greening the Blue Sustainability Tutorial](http://www.greeningtheblue.org/sustainability-tutorial)
+
+### [IPCC Data Distribution Centre](http://www.ipcc-data.org/)
+
+### [International Maritime Organization (IMO)](http://www.imo.org/en/Pages/Default.aspx)
+
+### [Linkages by International Institute for Sustainable Development (IISD)](http://www.iisd.ca/)
+
+### [Sustainable Development Solutions Network (SDSN)](http://unsdsn.org/)
+
+### [The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)](http://www.ipbes.net/)
+
+### [The International Civil Aviation Organization (ICAO)](http://www.icao.int/Pages/default.aspx)
+
+### [The Global Programme of Research on Climate Change Vulnerability, Impacts and Adaptation (PROVIA)](https://globalclimateforum.org/portfolio-item/provia/)
+
+### [The Ozone Secretariat, UNEP](http://ozone.unep.org/new_site/en/index.php)
+
+## Reportes Climáticos
+
+
+[IPBES Assessment Reports](https://www.ipbes.net/assessment-reports)
+
+[UN Environment Global Environment Outlook](https://www.unep.org/global-environment-outlook)
+
+[UN Environment Emissions Gap Report 2020](https://www.unep.org/emissions-gap-report-2020)
+
+[WMO The Global Climate 2015 -- 2019](https://library.wmo.int/index.php?lvl=notice_display&id=21718#.XqhHES-r2Wj)
+
+[WMO Greenhouse Gas Bulletin ](https://library.wmo.int/index.php?lvl=notice_display&id=3030#.YDZ_oehKg2x)

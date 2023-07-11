@@ -1,0 +1,48 @@
+project:
+  type: book
+
+book:
+  title: "Matriz Sustentabilidad"
+  subtitle: "Aproximación de Indicadores de Cambio Climático con Tesis Doctoral"
+  # affiliation-title: "Universidad Adolfo Ibáñez - Chile"
+  author: "Denis Berroeta González (<denis.berroeta@uai.cl>)"
+  date: "2023-06-01"
+  page-footer: 
+    left: "Copyright 2023, Denis Berroeta" 
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - ods_13.qmd
+    - marco.qmd
+    - clima_2022.qmd
+    - risk.qmd
+    - monitoreo.qmd
+    - tesis.qmd
+    - conclusion.qmd
+    - references.qmd
+  appendices:
+    - glosario.qmd
+    - resources.qmd
+    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    html-math-method: katex
+    css: style.css
+    fig-cap-location: "margin"
+    tab-cap-location: "bottom"
+    fig-align: "center"
+    mailto: "denis.berroeta@uai.cl"
+  
+execute:
+  warning: false
+  
+editor: source
+always_allow_html: true
+
+
+
+

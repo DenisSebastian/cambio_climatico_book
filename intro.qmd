@@ -1,0 +1,17 @@
+# Introducción
+
+![](images/Climate-Change.jpg){fig-align="center"}
+
+El 2019 fue el segundo año más caluroso de todos los tiempos y marcó el final de la década más calurosa (2010-2019) que se haya registrado jamás. Los niveles de dióxido de carbono (CO2) y de otros gases de efecto invernadero en la atmósfera aumentaron hasta niveles récord en 2019.
+
+A pesar de que se estima que las emisiones de gases de efecto invernadero caigan alrededor de un 6 % en 2020 debido a las restricciones de movimiento y las recesiones económicas derivadas de la pandemia de la COVID-19, esta mejora es solo temporal. El cambio climático no se va a pausar. Una vez que la economía mundial comience a recuperarse de la pandemia, se espera que las emisiones vuelvan a niveles mayores.
+
+El cambio climático global es un fenómeno que se ha acelerado en las últimas décadas debido a factores tanto internos como externos. Los gases de efecto invernadero emitidos por la actividad humana, la deforestación y el aumento de la temperatura del océano son algunas de las causas que están contribuyendo al cambio climático. Como resultado, estamos experimentando un aumento de la frecuencia e intensidad de fenómenos climáticos extremos como sequías, inundaciones y tormentas.
+
+En Chile, el cambio climático está teniendo impactos significativos en la economía y la sociedad. Se espera que la disminución de las precipitaciones cause una reducción en la producción de alimentos y la generación de energía hidroeléctrica. Además, la acidificación del océano está afectando a la pesca y la acuicultura, y el aumento del nivel del mar podría inundar zonas costeras. También se espera que el cambio climático afecte a la salud humana debido al aumento de las enfermedades transmitidas por vectores y la exposición a la contaminación del aire.
+
+Este documento está en sintonía con los Objetivos de Desarrollo Sostenible de la Agenda 2030, en particular con el Objetivo Nº 13 _Acción por el Clima_. Es importante considerar que el cambio climático puede afectar el cumplimiento de los otros objetivos de desarrollo sostenible, por lo que es fundamental tomar medidas para abordar este desafío global. En este sentido, la construcción de indicadores específicos para monitorear y abordar los impactos del cambio climático es una herramienta clave en la gestión de este problema.
+
+
+Para monitorear y abordar los impactos del cambio climático, se necesitan indicadores específicos que midan variables clave como la emisión de gases de efecto invernadero, la adaptación al cambio climático y la resiliencia de los ecosistemas. La construcción de estos indicadores es un paso clave en la gestión del cambio climático, ya que proporcionan una forma de medir el progreso y evaluar la eficacia de las políticas y programas implementados para abordar el cambio climático.
+
