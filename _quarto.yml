@@ -11,18 +11,18 @@ book:
     left: "Copyright 2023, Denis Berroeta" 
   chapters:
     - index.qmd
-    - intro.qmd
-    - ods_13.qmd
-    - marco.qmd
-    - clima_2022.qmd
-    - risk.qmd
-    - monitoreo.qmd
-    - tesis.qmd
-    - conclusion.qmd
-    - references.qmd
-  appendices:
-    - glosario.qmd
-    - resources.qmd
+    # - intro.qmd
+    # - ods_13.qmd
+    # - marco.qmd
+    # - clima_2022.qmd
+    # - risk.qmd
+    # - monitoreo.qmd
+    # - tesis.qmd
+    # - conclusion.qmd
+    # - references.qmd
+  # appendices:
+    # - glosario.qmd
+    # - resources.qmd
     
 
 bibliography: references.bib
